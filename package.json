@@ -1,23 +1,23 @@
 {
-  "name": "morning_pages",
-  "version": "0.0.0",
-  "description": "Write and save morning pages",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/libuk/morning_pages.git"
-  },
-  "author": "Daniel Liburd",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/libuk/morning_pages/issues"
-  },
-  "homepage": "https://github.com/libuk/morning_pages#readme",
-  "devDependencies": {
-    "nodemon": "^1.19.1",
-    "prettier": "^1.18.2"
-  }
+    "name": "morning_pages",
+    "version": "0.0.0",
+    "description": "Write and save morning pages",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/libuk/morning_pages.git"
+    },
+    "author": "Daniel Liburd",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/libuk/morning_pages/issues"
+    },
+    "homepage": "https://github.com/libuk/morning_pages#readme",
+    "devDependencies": {
+        "nodemon": "1.19.1",
+        "prettier": "1.18.2"
+    }
 }
